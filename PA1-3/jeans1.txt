@@ -1,0 +1,15 @@
+white small
+blue medium
+black large 
+maroon xlarge
+white small
+blue medium
+black large
+maroon xlarge
+white small
+blue medium
+black large
+maroon xlarge
+white small
+blue medium
+black large

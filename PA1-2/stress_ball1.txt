@@ -1,0 +1,15 @@
+red small
+blue medium
+yellow large 
+green small
+red medium
+blue large
+yellow small
+green medium
+red large
+blue small
+yellow medium
+green large
+red small
+blue medium
+yellow large
